@@ -2,7 +2,7 @@
 title: 不定期更新自己的新项目
 ---
 
-## ⚒️Projects
+## 🎨Projects
 
  - CleanMyWechat [[Github](https://github.com/blackboxo/CleanMyWechat)] [[小众软件推荐](https://www.appinn.com/cleanmywechat/)]
  - 文保在身边 [[iOS App](https://apps.apple.com/cn/app/%E6%96%87%E4%BF%9D%E5%9C%A8%E8%BA%AB%E8%BE%B9/id1497105715)] [安卓 App] [小程序] [[少数派报道](https://sspai.com/post/62784)] [[凤凰网报道](http://ishare.ifeng.com/c/s/v002n2E0CJ0r-_A3LCVAtaZLaTFFqV3Sqs4ktnmek-_M3VMGE__)]
@@ -30,7 +30,7 @@ title: 不定期更新自己的新项目
   - 上海市医保局 - 基于人工智能的 DRGs 病例动态智能审核办法研究
   - 上海市医保局 - 医疗行为费用合理性评估算法
 
-## :black_nib:Research
+## 📋Research
 
 - 国家重点研发计划：“现代服务业共性关键技术研发及应用示范”重点专项——贸易金融开放平台关键技术研发与应用示范 (2019YFB1404904)，子课题技术负责人
 - 上海市科技创新行动计划：面向智慧口岸的风险预警与可信溯源 (18DZ1200802)，课题技术负责人

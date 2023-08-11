@@ -185,7 +185,7 @@ cloudflare_analytics:
 umami_analytics:
   enabled: true
   id: 6f8c0861-7e8f-4948-bf7c-c0674cac5f57
-  host: https://analytics.domain.is
+  host: https://analytics.umami.is
   script_name: script.js
 
 # Fill in you Gravatar email or hash if you want to use your gravatar as the

@@ -27,23 +27,24 @@ title: 不定期更新自己的新项目
   - 上海市医保局 - 医疗行为费用合理性评估算法
 ## 📋Research
 
-- 国家重点研发计划：“现代服务业共性关键技术研发及应用示范”重点专项——贸易金融开放平台关键技术研发与应用示范 (2019YFB1404904)，子课题技术负责人
+- 国家重点研发计划：高性能可信跨境贸易支付监管关键技术研究（2023YFC3304800）
+- 国家重点研发计划：贸易金融开放平台关键技术研发与应用示范 (2019YFB1404904)，子课题技术负责人
 - 上海市科技创新行动计划：面向智慧口岸的风险预警与可信溯源 (18DZ1200802)，课题技术负责人
 - 中国工程院战略研究与咨询项目：数字化转型背景下金融风险监测与预警体系战略研究 (2023-XY-43)
 - 中国工程院院地合作项目：金融科技赋能云南省面向 RCEP 跨境贸易战略研究 (2022YNZH5)
 ## 📃Paper
 
-- **Bin Wu**, Xinyu Yao, Boyan Zhang, Kuo-Ming Chao, Yinsheng Li*. SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily. The Conference on Information and Knowledge Management (CIKM 2023). **(CCF B 会议)**
-- **Bin Wu**, Kuo-Ming Chao, Yinsheng Li*. Heterogeneous graph neural networks for fraud detection and explanation in supply chain finance. Information Systems, 2024. **(CCF B 期刊)**
+- **Bin Wu**, Xinyu Yao, Boyan Zhang, Kuo-Ming Chao, Yinsheng Li*. SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily. The Conference on Information and Knowledge Management (CIKM 2023). (CCF B 会议)
+- **Bin Wu**, Kuo-Ming Chao, Yinsheng Li*. Heterogeneous graph neural networks for fraud detection and explanation in supply chain finance. Information Systems, 2024. (CCF B 期刊)
 ## 🏅️Award
 
-- **第二届中国研究生金融科技创新大赛（中国研究生创新实践系列大赛）一等奖银奖**
+- 2023 第二届中国研究生金融科技创新大赛（中国研究生创新实践系列大赛）一等奖银奖
 - 2023 大模型创新创意应用大赛最佳创意奖（上海市数据科学重点实验室）
-- **2023 AI Hack Engine 第一期录取（9/400+队伍），30 万美元天使投资意向（真格基金，即刻）**
+- 2023 AI Hack Engine 第一期录取（9/400+队伍），30 万美元天使投资意向（真格基金，即刻）
 - 2022 国家医疗保障局：首届”智慧医保解决方案大赛”优胜奖：“医药机构准入与常态化管理大数据平台方案”
 - 2022 第八届中国国际“互联网+”大学生创新创业大赛上海赛区优胜奖
-- **2020 “上海市青年五四奖章”集体（复旦大学健康大数据挖掘与可视化创新青年团队）**
-- **2020 中国高校计算机大赛“移动应用创新赛”全国三等奖**
+- 2020 “上海市青年五四奖章”集体（复旦大学健康大数据挖掘与可视化创新青年团队）
+- 2020 中国高校计算机大赛“移动应用创新赛”全国三等奖
 - 2019 第四届“汇创青春”上海大学生文化创意作品上海市一等奖
 - 2018 复旦大学优秀毕业生
 - 2018 首届复旦大学“泛海创业基金” 探索基金资助
